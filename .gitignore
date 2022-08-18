@@ -1,0 +1,10 @@
+#gitignore
+.DS_Store/*
+.vscode/*
+venv/*
+virtual-environment/*
+*.db
+*.sql
+*.out
+app/__pycache__/*
+__/__pycache__/*
